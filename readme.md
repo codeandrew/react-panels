@@ -1,4 +1,9 @@
+A Simple React Js app for Panels and Grids.
+go to public/index.html  
+
+
 Start With NPM Install
+
 
 "devDependencies":
   - "babel-preset-react": "^6.24.1",
